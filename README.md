@@ -1,8 +1,6 @@
 # math-assignment
 📑 Python script that solves a certain old math assignment.
 
-<br><br><br>
-
 ## How it works?
 The script works by brute forcing the answer. I didn't want to spend more time on the script than on deducing the answers (actually it took longer as always...), so I decided to use the permutations function to get all possible orders.
 
